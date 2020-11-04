@@ -1,2 +1,2 @@
-# my-first-blog
+# myfirstblog
 doing my tutorial
